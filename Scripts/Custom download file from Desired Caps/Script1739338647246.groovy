@@ -30,8 +30,6 @@ WebUI.navigateToUrl('https://demo.automationtesting.in/FileDownload.html')
 
 WebUI.switchToWindowTitle('File input - Multi select')
 
-WebUI.enableSmartWait()
-
 WebUI.click(findTestObject('Object Repository/a_Download'))
 
 WebUI.delay(10)
