@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Custom download file from custom keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef967d7b-0d35-4971-bfd3-ea5cb593cce9</testCaseGuid>
+</TestCaseEntity>
