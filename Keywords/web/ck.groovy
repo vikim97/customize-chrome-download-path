@@ -16,7 +16,7 @@ public class ck {
 
 		String path = System.getProperty("user.dir");
 
-		// Set the default download folder as Data Files folder of project folder
+		// Set the default download folder as Download Files folder of project folder
 		String DOWNLOAD_FOLDER_PATH = path + File. separator + "Download Files";
 		HashMap<String, Object> chromePrefs = new HashMap<String, Object>();
 		chromePrefs.put('download.default_directory', DOWNLOAD_FOLDER_PATH);
