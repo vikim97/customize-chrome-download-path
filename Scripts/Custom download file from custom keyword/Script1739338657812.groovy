@@ -24,7 +24,11 @@ import com.kms.katalon.core.annotation.Keyword as Keyword
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import com.kms.katalon.core.webui.driver.chrome.ChromeDriverUtil as ChromeDriverUtil
 
+<<<<<<< HEAD
 CustomKeywords.'web.custom_keyword.createChromeWebDriverCustomDownload'()
+=======
+CustomKeywords.'web.ck.createChromeWebDriverCustomDownload'()
+>>>>>>> branch 'master' of https://github.com/vikim97/customize-chrome-download-path.git
 
 WebUI.navigateToUrl('https://demo.automationtesting.in/FileDownload.html')
 
