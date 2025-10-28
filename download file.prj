@@ -4,20 +4,8 @@
    <name>download file</name>
    <tag></tag>
    <UUID>c5c6763b-6b24-4c9f-a768-1612bed97203</UUID>
-   <createdEdition>ENTERPRISE</createdEdition>
-   <createdVersion>10.1.0</createdVersion>
-   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>ENTERPRISE</modifiedEdition>
-<<<<<<< HEAD
-   <modifiedVersion>10.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/vi.kim/Downloads/customize-chrome-download-path-master/download file.prj</projectFileLocation>
-=======
-   <modifiedVersion>10.1.0</modifiedVersion>
-   <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/vi.kim/git/customize-chrome-download-path/download file.prj</projectFileLocation>
->>>>>>> branch 'master' of https://github.com/vikim97/customize-chrome-download-path.git
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
